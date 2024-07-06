@@ -1,19 +1,23 @@
-# NAME- ADITYA KUMAR SINGH
-# COMPANY-CODTECH IT SOLUTIONS
-# INTERN ID-CT8DA1370
-# DOMAIN- DATA ANALYTICS
-# DURATION- 25TH JUNE TO 25TH AUGUST 2024
+ NAME- ADITYA KUMAR SINGH
+
+ COMPANY-CODTECH IT SOLUTIONS
+ 
+ INTERN ID-CT8DA1370
+ 
+ DOMAIN- DATA ANALYTICS
+ 
+ DURATION- 25TH JUNE TO 25TH AUGUST 2024
 
 
 
 # CODTECH_INTERNSHIP-Task-1
 TASK ONE: EXPLORATORY DATA ANALYSIS (EDA)  Start with a dataset of your choice and perform EDA using libraries like pandas, numpy, and matplotlib or seaborn. Explore the data's characteristics, distributions, correlations, and outliers. Visualize your findings with histograms, scatter plots, and heatmaps to gain insights into the data.
 
-# OVERVIEW OF PROJECT-
+ OVERVIEW OF PROJECT-
 
 An exploratory data analysis (EDA) project on the World Happiness Report involves a systematic approach to understand, visualize, and summarize the key characteristics of the data. Here is an overview of the steps you can follow:
 
-# STEPS  INVOLVED-
+   STEPS  INVOLVED-
 
 # 1. Define Objectives and Questions
 Objective: Understand the factors influencing happiness across different countries.
@@ -60,5 +64,7 @@ Include an executive summary for stakeholders.
 
 # Tools and Libraries
 Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, scikit-learn.
+
 Jupyter Notebook: For an interactive analysis and visualization.
+
 Github and Goggle collab notebook.
